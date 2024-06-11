@@ -1,7 +1,7 @@
-        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𝐁α∂ 𝐌υи∂α🌸❤️ᥫ᭡፝֟፝֟ 」
+        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ─‌⃛┼𝆺𝅥⃝ᶦϻ‌-ᵛ‌ᵎᵖ ≛⃝ 𝐀𝐚𝐫𝐮❣𓆩𝐎𝐰𝐧𝐞𝐫𓆪ꪾ🥀⃝⃪•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋๋๋๋๋๋⌯꯭꯭♛𓂃ֶָ֢ᥫ᭡፝֟፝֟ 」
 </h2>
 
-<p align="center"><a href="https://t.me/II_BAD_BBY_II"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
+<p align="center"><a href="https://graph.org/file/d60f4fad999dd3a9d6427.jpg"></a></p>
 
 
 ❍══════════════════════════❍
@@ -9,80 +9,80 @@
 
 
 
-1 ✧ ᴛɢ ɴᴀᴍᴇ  » ʙᴀᴅ ᴍᴜɴᴅᴀ 🥵
+1 ✧ ᴛɢ ɴᴀᴍᴇ  » ─‌⃛┼𝆺𝅥⃝ᶦϻ‌-ᵛ‌ᵎᵖ ≛⃝ 𝐀𝐚𝐫𝐮❣𓆩𝐎𝐰𝐧𝐞𝐫𓆪ꪾ🥀⃝⃪•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋๋๋๋๋๋⌯꯭꯭♛𓂃ֶָ֢  🥵
 
 
 
 
 
-2 ✧ ʀᴇᴀʟ ɪᴅ   » @II_BAD_MUNDA_II  🌸
+2 ✧ ʀᴇᴀʟ ɪᴅ   » @FUCK_OF_FEELINGS  🌸
 
 
 
 
 
-3 ✧ ғʀᴏᴍ » ᴘᴜɴᴊᴀʙ 💙
+3 ✧ ғʀᴏᴍ » delhi 💙
 
 
 
 
 
-4 ✧ ᴍʏ ʙɪʀᴛʜᴅᴀʏ » 23 ᴊᴀɴ🎂
+4 ✧ ᴍʏ ʙɪʀᴛʜᴅᴀʏ » 12 ᴊᴀɴ🎂
 
 
 
 
 
-5 ✧ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ » 😈 @BAD_BBY_02_BOT 😈
+5 ✧ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ » 😈 @INNOCENTxMANAGEMENTBOT 😈
 
 
 
 
 
-6 ✧ ᴍᴜsɪᴄ ʙᴏᴛ » 🎸 @MissBroken_Bot 🎸
+6 ✧ ᴍᴜsɪᴄ ʙᴏᴛ » 🎸 @INNOCENTxMUSICBOT 🎸
 
 
 
 
 
-7 ✧ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ » 💀 @BAD_STRING_SESSION_BOT 💀
+7 ✧ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ » 💀 @StringFather2Bot 💀
 
 
 
 
 
 
-8 ✧  sᴛʀɪɴɢ sᴇssɪᴏɴ ʜᴀᴄᴋ ʙᴏᴛ » 🚬 @BAD_STRING_SESSION_HACK_BOT 😒
+8 ✧  sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ » 🚬 @StringFather2Bot 😒
 
 
 
 
 
-9 ✧ ᴄʜᴀᴛ ʙᴏᴛ » 🌉 @KaurSardarni_bot 🌉
+9 ✧ ᴄʜᴀᴛ ʙᴏᴛ » 🌉 @Miss_Missu_BOT 🌉
 
 
 
 
 
-10 ✧ ᴅᴘᴢ ᴄʜᴀɴɴᴇʟ » 🥺 @BEAUTIFUl_DPZ 🥺
+10 ✧ ᴅᴘᴢ ᴄʜᴀɴɴᴇʟ » 🥺 @INW_DP_ZONE 🥺
 
 
 
 
 
-11 ✧ ғᴇʟʟɪɴɢ ʙᴀᴅ ᴄʜᴀɴɴᴇʟ » 😈 @FELLINGS_BAD 😈
+11 ✧ ғᴇʟʟɪɴɢ  ᴄʜᴀɴɴᴇʟ » @Mehfil_yeh_Shayari 😈
 
 
 
 
 
-12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 @II_CHAT_HUB_II 😈
+12 ✧ ᴄʜᴀᴛ ɢʀᴏᴜᴘ » 👼 @Innocent_world_chat 😈
 
 
 
 
 
-13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @ll_THE_BAD_BOT_ll 😈
+13 ✧ ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ » 👼 @FUCK_0F_FEELINGS 😈
 
 
 
@@ -93,7 +93,7 @@
        ਤੇਰੀ ਔਕਾਤ🤪ਨਾਲੋਂ ਵੱਡਾ ਤਾਂ ਅਸੀਂ 😘ਦਿਲ ਰੱਖਦੇ ਅਾ😈◆
 
 
-#𝐁αԃ 😎
+#Arush 😎
 
 
 
