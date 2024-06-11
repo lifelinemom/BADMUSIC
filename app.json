@@ -1,7 +1,7 @@
 {
-    "name": "🍃𝗕ʀᴏᴋᴇɴ 𝗠ᴜsɪᴄ🍃",
+    "name": "🍃˹ᴊᴧᴧɴɪ ꭙ ᴍᴜsɪᴄ˼ 🫧🍃",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b42988df6e797f634ac16.jpg",
+    "logo": "https://graph.org/file/33b867f244ef82624e5e7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -30,12 +30,12 @@
       },
       "MONGO_DB_URI": {
         "description": "𝐆𝐄𝐓 𝐀 𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐔𝐑𝐋 𝐅𝐑𝐎𝐌 https://cloud.mongodb.com. 𝐈𝐅 𝐘𝐎𝐔 𝐃𝐎𝐍𝐓 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄𝐍 𝐔𝐒𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐅𝐈𝐋𝐋𝐄𝐃 𝐌𝐎𝐍𝐆𝐎.",
-        "value": "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/",
+        "value": "mongodb+srv://krishna:op@cluster0.evx8veo.mongodb.net/",
         "required": true
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃.",
-        "value": "6898413162",
+        "value": "6141854768",
         "required": true
       },
       "STRING_SESSION": {
