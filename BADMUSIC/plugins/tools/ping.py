@@ -50,7 +50,7 @@ async def ping_com(client, message: Message, _):
     resp = (datetime.now() - start).microseconds / 1000
     text =  _["ping_2"].format(resp, app.name, UP, RAM, CPU, DISK, pytgping)
     carbon = await make_carbon(text)
-    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 ʙᴀᴅ...ʙᴀᴅ...ʙᴀʙʏ💞**"
+    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 Aʀᴜsʜ...ʙᴀʙʏ💞**"
     await message.reply_photo((carbon), caption=captions,
     reply_markup=InlineKeyboardMarkup(
             [
@@ -63,10 +63,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/Devils_Hell_0",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/innocent_world_chat",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/ll_THE_BAD_BOT_ll",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/FUCK_OF_FEELINGS",
             )
         ],
         [
