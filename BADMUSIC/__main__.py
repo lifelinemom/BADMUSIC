@@ -41,12 +41,12 @@ async def init():
     await BAD.start()
     await BAD.decorators()
     LOGGER("BADMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐓𝐄𝐀𝐌 𝐇𝐔𝐍𝐓𝐄𝐑♨️\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐙𝐈𝐃𝐃𝐈 𝐌𝐔𝐊𝐇𝐈𝐘𝐀♨️\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("BADMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐓𝐄𝐀𝐌 𝐇𝐔𝐍𝐓𝐄𝐑♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("BADMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐙𝐈𝐃𝐃𝐈 𝐌𝐔𝐊𝐇𝐈𝐘𝐀♨️\n╚═════ஜ۩۞۩ஜ════╝")
     
 
 if __name__ == "__main__":
