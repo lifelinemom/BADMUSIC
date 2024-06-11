@@ -15,13 +15,13 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/712e28b6207db1448ac88.jpg",
+        photo=f"https://telegra.ph/file/0521d2bf70ea5c1dc31d1.mp4",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/MXNIHACKER/BrokenMusic/fork")
+                        "🖕𝐌𝐄𝐄𝐓 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 𝐉𝐈🖕", url=f"https://t.me/about_meeBachaa")
                  ]
             ]
         ),
