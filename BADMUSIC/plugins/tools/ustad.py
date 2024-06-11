@@ -15,16 +15,16 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/c10a363e7c0587025f36f.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_0F_FEELINGS")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_OF_FEELINGS")
             ]
             ]
         ),
@@ -35,16 +35,16 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/c10a363e7c0587025f36f.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_0F_FEELINGS")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_OF_FEELINGS")
             ]
             ]
         ),
@@ -55,16 +55,16 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/403d1431dd35d74d6fcad.jpg",
+        photo=f"https://graph.org/file/c10a363e7c0587025f36f.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_0F_FEELINGS")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/FUCK_OF_FEELINGS")
             ]
             ]
         ),
